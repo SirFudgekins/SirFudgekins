@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Glenn's github stats](https://github-readme-stats.vercel.app/api?username=LegoCityMan7063&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **LegoCityMan7063/LegoCityMan7063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
