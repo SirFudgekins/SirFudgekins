@@ -6,7 +6,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegoCityMan7063&layout=compact&langs_count=8&exclude_repo=CSCA08" />
 </a>  
 
-
 Note: Language stats exclude forks.
 
 <!--
